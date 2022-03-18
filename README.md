@@ -13,5 +13,6 @@ In a Google Sheet, **Extentions -> Apps Script** and replace the code with this.
 * Define method name by year, support more years
 * Abstract methods to take in tax brackets for the year
 * Support state taxes
+* Support uploading to Google Workplace Marketplace by turning this into an add-on
 
 ## Please note that this does not support MFJ/MFS yet, and do not rely on this for your taxes as this is not 100% accurate.
