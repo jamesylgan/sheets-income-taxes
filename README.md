@@ -8,6 +8,7 @@ In a Google Sheet, **Extentions -> Apps Script** and replace the code with this.
 
 # Issue list
 * [[GOOGLE ISSUE]](https://issuetracker.google.com/issues/222342097?pli=1) Custom functions are currently slow
+  * You can sort of solve this temporarily with a cut and paste of the cell containing the custom function
 * Support MFS/MFJ for Federal Income Tax
 * Define method by name, support more years
 * Support state taxes
