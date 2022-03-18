@@ -13,7 +13,7 @@ function INCOMETAX(income, preTaxContributions, joint) {
   let rate = 0;
   // Handle each bracket
   // TODO: convert to map or array lol
-  // TODP: use joint here
+  // TODO: use joint here
   // 37%
   if (taxable > 539901) {
     flat += 162718;
