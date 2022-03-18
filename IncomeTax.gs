@@ -8,7 +8,8 @@
  * @customfunction
  */
 function INCOMETAX(income, preTaxContributions, joint) {
-  let taxable = income - preTaxContributions;
+  let standard_deduction = 12950;
+  let taxable = income - preTaxContributions - standard_deduction;
   let flat = 0;
   let rate = 0;
   // Handle each bracket
